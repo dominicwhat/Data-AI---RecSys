@@ -6,16 +6,12 @@
 
 # 推薦算法
 
-## 隨機推薦:
-### 隨機推薦training data的K個商品
+### 隨機推薦: 隨機推薦training data的K個商品
 
-##  推薦評價次數topK商品
-###  推薦training data最多人評價的K個商品
+### 推薦評價次數topK商品: 推薦training data最多人評價的K個商品
 
-## 推薦2018年8月評價次數topK商品
-### 推薦2018年8月training data最多人評價的K個商品
+### 推薦2018年8月評價次數topK商品: 推薦2018年8月training data最多人評價的K個商品
 
-## 推薦2018年8月評價次數topK商品
-### 推薦2017年9月training data最多人評價的K個商品
+### 推薦2018年8月評價次數topK商品: 推薦2017年9月training data最多人評價的K個商品
 
 # 結論
