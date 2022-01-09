@@ -9,6 +9,11 @@
 ### Item-based collaborative filtering: 0.0017
 ### 套件 surprise 實作 collaborative filtering: 0.0017
 
+## 與rule-based方法混用
+### User-based collaborative filtering: 0.1
+### Item-based collaborative filtering: 0.0983
+### 套件 surprise 實作 collaborative filtering: 0.1
+
 # 推薦算法
 ## 預設
 ### User-based collaborative filtering
